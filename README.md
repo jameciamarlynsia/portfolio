@@ -1,5 +1,11 @@
 
-Hello I am Jamecia Marlynsia Moore
+Hello, my name is Jamecia Marlynsia Moore and I am sharing my creations with you!
+
+
+
+
+
+
 
 
 Here is a link to the apps I created using Android Studio:
