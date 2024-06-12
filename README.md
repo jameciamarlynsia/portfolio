@@ -1,11 +1,20 @@
 
-Hello, my name is Jamecia Marlynsia Moore and I am sharing my creations with you!
-<br />
+# Welcome to My Portfolio Repository!
 
+Hello there! I'm Jamecia Marlynsia Moore, and I'm excited to share my creations with you!
 
+---
 
-<br />
+## My Projects
 
-Here is a link to the apps I created using Android Studio:
-
-https://drive.google.com/drive/folders/1ciySYCMvOi2dRE6YziYAt8-fU8OxkJB4?usp=sharing
+1. **Java Projects**
+   
+   Description: Collection of Java projects I've worked on.
+   
+2. **Simple Login Project**
+   
+   Description: A simple login project implemented in php.
+   
+3. **MIPS Projects**
+   
+   Description: Projects related to MIPS (Microprocessor without Interlocked Pipeline Stages) architecture.
