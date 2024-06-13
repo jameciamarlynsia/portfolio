@@ -13,8 +13,14 @@ Hello there! I'm Jamecia Marlynsia Moore, and I'm excited to share my creations 
    
 2. **Simple Login Project**
    
-   Description: A simple login project implemented in php.
+   Description: A simple login project implemented in PHP.
    
 3. **MIPS Projects**
    
    Description: Projects related to MIPS (Microprocessor without Interlocked Pipeline Stages) architecture.
+   
+4. **Walking Cycle**
+   
+   Description: Transform a PNG image into a walking animation using CSS.
+   
+   URL: [View Walking Cycle](https://jamecia-portfolio.netlify.app/walking-cycle)
