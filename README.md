@@ -31,5 +31,5 @@ Hello there! I'm Jamecia Marlynsia Moore, and I'm excited to share my creations 
    URL: [View Plot Pioneer (in dev)](https://splendid-marzipan-1f5ffc.netlify.app/)
 
    Additional Links:
-   - Test Character Generator (UK): [UK Character Generator](https://splendid-marzipan-1f5ffc.netlify.app/generate/uk/menu/character-generator)
    - Test Character Generator (US): [US Character Generator](https://splendid-marzipan-1f5ffc.netlify.app/generate/us/menu/character-generator)
+   - Test Character Generator (UK): [UK Character Generator](https://splendid-marzipan-1f5ffc.netlify.app/generate/uk/menu/character-generator)
