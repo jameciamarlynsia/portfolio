@@ -21,12 +21,12 @@ Hello there! I'm Jamecia Marlynsia Moore, and I'm excited to share my creations 
    
 4. **Walking Cycle**
    
-   Description: Creative hub for character, location, and storyline generation.
+   Description: Transformation of a PNG image into a walking animation using CSS.
    
    URL: [View Walking Cycle](https://jamecia-portfolio.netlify.app/walking-cycle)
 
 5.  **Plot Pionner**
    
-   Description: 
+   Description: Creative hub for character, location, and storyline generation.
    
    URL: [View Plot Pioneer (in dev)](https://splendid-marzipan-1f5ffc.netlify.app/)
