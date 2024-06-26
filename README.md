@@ -1,6 +1,6 @@
 # Welcome to My Portfolio Repository!
 
-Hello there! I'm Jamecia Marlynsia Moore, and I'm excited to share my creations with you!
+Hello there! I'm Jamecia Marlynsia Moore, and I'm excited to share my creations with you! ⁕
 
 ---
 
