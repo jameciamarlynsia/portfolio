@@ -29,4 +29,4 @@ Hello there! I'm Jamecia Marlynsia Moore, and I'm excited to share my creations 
    
    Description: 
    
-   URL: [View Plot Pioneer (in dev)]([https://jamecia-portfolio.netlify.app/walking-cycle](https://splendid-marzipan-1f5ffc.netlify.app/))
+   URL: [View Plot Pioneer (in dev)](https://splendid-marzipan-1f5ffc.netlify.app/)
