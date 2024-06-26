@@ -1,4 +1,3 @@
-
 # Welcome to My Portfolio Repository!
 
 Hello there! I'm Jamecia Marlynsia Moore, and I'm excited to share my creations with you!
@@ -25,7 +24,7 @@ Hello there! I'm Jamecia Marlynsia Moore, and I'm excited to share my creations 
    
    URL: [View Walking Cycle](https://jamecia-portfolio.netlify.app/walking-cycle)
 
-5.  **Plot Pionner**
+5. **Plot Pioneer**
    
    Description: Creative hub for character, location, and storyline generation.
    
